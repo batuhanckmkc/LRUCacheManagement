@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# JetBrains Rider / IntelliJ IDEA
+.idea/
+*.sln.iml
+*.user
+*.customer
+*.template
