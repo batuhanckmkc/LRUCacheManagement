@@ -423,3 +423,7 @@ FodyWeavers.xsd
 *.user
 *.customer
 *.template
+
+# macOS system files
+.DS_Store
+**/.DS_Store
